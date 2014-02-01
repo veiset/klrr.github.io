@@ -1,0 +1,48 @@
+body {
+    background-color: #FBFBEF;
+    font-family: 'Droid Serif', serif;
+    line-height: 150%;
+    text-align: left;
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+a {
+    color: #0489B1;
+}
+
+.fronttitle {
+    font-family: 'Oleo Script', cursive;
+    font-size: 38px;
+    text-align: center;
+    text-shadow: 1px 1px #848484;
+}
+
+.menu a, .menu {
+    font-style: italic;
+    background-color: #F5F6CE;
+    text-align: center;
+    text-decoration: none;
+    color: #585858;
+}
+
+.archive {
+    font-size: 12px;
+    line-height: 1%;
+    color: #6E6E6E;
+}
+
+footer {
+    font-style: italic;
+    font-size: 14px;
+    text-align: center;
+    color: #A4A4A4;
+}
