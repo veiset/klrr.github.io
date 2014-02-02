@@ -40,7 +40,7 @@ list = H.ul . mapM_ link
 
 link :: [Text] -> Html
 link [name, date, path] = do
-    H.a ! A.href (H.toValue $ "../posts/" <> path <> "/index.html") $ H.toHtml name
+    H.a ! A.href (H.toValue $ "../posts/" <> path) $ H.toHtml name
     H.p ! A.class_ "archive" $ H.toHtml date
 link _ = error "AAAH, COMPUTAR GONNA EXPL0DEZ!1!!!"
 

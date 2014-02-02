@@ -1,1 +1,1 @@
-Hello, world | 01-Feb-14 | posts/hello-world.html
+Hello, world | 01-Feb-14 | hello-world
