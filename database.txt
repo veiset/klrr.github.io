@@ -1,3 +1,0 @@
-Hello, world | 01-Feb-14 | hello-world
-Vigorous functions | 17-Feb-14 | functions
-Nice font rendering on GNU/Linux | 14-Mar-14 | fonts-linux
